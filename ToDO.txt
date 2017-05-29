@@ -1,4 +1,0 @@
-- transition scenes smoothly
-- try to do day cycle
-- add in math! (loans, today's "catch")
-- bg music to remain 
